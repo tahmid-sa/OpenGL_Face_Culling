@@ -1,0 +1,12 @@
+﻿  window_main.cpp
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\shader.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\mesh.h(90,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\window_main.cpp(238,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\window_main.cpp(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\window_main.cpp(345,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\window_main.cpp(349,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\window_main.cpp(350,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\window_main.cpp(352,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\window_main.cpp(353,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\OpenGLWindow\window_main.cpp(362,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLWindow.vcxproj -> C:\Users\tahmi\VS Projects\repos\OpenGL\Face Culling\x64\Debug\OpenGLWindow.exe
